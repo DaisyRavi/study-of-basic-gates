@@ -63,16 +63,22 @@ Y= A⊕B
 
 
 **PROGRAM**
+![DE EXP1 PRG](https://github.com/DaisyRavi/study-of-basic-gates/assets/151394386/61ad4866-b834-4bb4-96ec-136c0c3c084b)
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: RegisterNumber: daisy.R
  
 **Logic symbol & Truthtable**
+![DE EXP 1 TT](https://github.com/DaisyRavi/study-of-basic-gates/assets/151394386/f861a5f8-ffd0-46d4-b77d-922899d110b9)
 
 **RTL realization Output:** 
+![EXP 1 RTL REALIZATION](https://github.com/DaisyRavi/study-of-basic-gates/assets/151394386/205253b1-2c9d-455d-9e7e-9d4a8a86900d)
 
 **RTL**
+
+![EX1 DE WF](https://github.com/DaisyRavi/study-of-basic-gates/assets/151394386/229bbb23-183a-4a46-8ef7-95f9b0fffaee)
+
 
 **Result:**
 
